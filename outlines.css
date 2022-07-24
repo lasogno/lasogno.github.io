@@ -130,3 +130,8 @@ aside::before {
 nav::before {
   content: "nav";
 }
+
+.skill-js {
+  background-image: url("img/icon-js.svg");
+
+}
